@@ -1,0 +1,15 @@
+body{
+  background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res60/34000/34318-Puerto-Morelos.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.logo{
+  max-width: 120px;
+  margin: 20px;
+}
+.nav-content{
+  padding-left: 150px;
+}
+.social{
+  max-width: 50px;
+}
